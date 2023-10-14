@@ -1,0 +1,8 @@
+忽略文件。
+.gitignore
+对当前目录和子目录生效
+Git Bash touch 创建
+/mtk/ 过滤整个文件
+*.zip
+/mtk/do.c
+lindex.php
